@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2b32174a45ee97ba456d464dcaa87a63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6f759ce50a2dbf8314f3537d473ce0bd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dd5d2cebe2a6b0a53fe618d951445033\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\20a379bb833efcd823ad6e30dfe3fbea\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a74d8401918a51c954fada49e0020959\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3a61b45453691653a9ce63f1c62cd42\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\aac06f4568eb89b4af53eab8e50acd21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\40be30bc1b1b29229cd14504b416bcf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\563d1ef2886af07a4753b140bf3400b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\63fa2099c531a7ac1ca9771436af0f48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e004ff9241981937f1f03a1a6d4cadb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\379e8c6577f38c1c7fca9a49ca051c0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\907d98302cce469f94deee07f47dade5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\855b23171b743d376b22abc11a8bbeb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7ff15adc4ab389485787720e9e6193bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b787516b63ba220ce85a0e1aef8d807f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ad59f3aa67bb29f63a77b5e0a244e834\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fbd919a8d4587c80b67881825fb3b181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d3fc1f9a55b351abf39a4ac2551048e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cee6570588445f912cde7c432b8ec30c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\768dbab55db43a3be5b8d5f88ce573bf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31444360b65cccb977bddb2d2d4d6f59\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\96ee1cd12f92b95f5ec30036607cfdbd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8a3708d073faf82b057a3ed2ed8d90ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\01cd6c556c758f2abb224b0c96232c67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\05055d8b14a3c64190d07f72ada24521\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a9e26a00f2838713a06cb63439030ff3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9964776757d22d56987a24844b9f7c2c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\641d08deeabe734c292926b853c64142\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\72ecc6fe3d39897391078ea49fef1909\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9604b80f36a09cb2e7630c674c17ec85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f3d22eeceb2648e5c02b9cdcf170e8f9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:8:5-78
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:12:5-66
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:12:22-64
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:13:5-63
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:13:19-60
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:15:5-16:47
+	tools:ignore
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:15:22-76
+uses-sdk
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:17:5-43
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:17:5-43
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2b32174a45ee97ba456d464dcaa87a63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2b32174a45ee97ba456d464dcaa87a63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6f759ce50a2dbf8314f3537d473ce0bd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6f759ce50a2dbf8314f3537d473ce0bd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dd5d2cebe2a6b0a53fe618d951445033\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dd5d2cebe2a6b0a53fe618d951445033\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\20a379bb833efcd823ad6e30dfe3fbea\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\20a379bb833efcd823ad6e30dfe3fbea\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a74d8401918a51c954fada49e0020959\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a74d8401918a51c954fada49e0020959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3a61b45453691653a9ce63f1c62cd42\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3a61b45453691653a9ce63f1c62cd42\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\aac06f4568eb89b4af53eab8e50acd21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\aac06f4568eb89b4af53eab8e50acd21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\40be30bc1b1b29229cd14504b416bcf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\40be30bc1b1b29229cd14504b416bcf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\563d1ef2886af07a4753b140bf3400b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\563d1ef2886af07a4753b140bf3400b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\63fa2099c531a7ac1ca9771436af0f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\63fa2099c531a7ac1ca9771436af0f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e004ff9241981937f1f03a1a6d4cadb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e004ff9241981937f1f03a1a6d4cadb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\379e8c6577f38c1c7fca9a49ca051c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\379e8c6577f38c1c7fca9a49ca051c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\907d98302cce469f94deee07f47dade5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\907d98302cce469f94deee07f47dade5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\855b23171b743d376b22abc11a8bbeb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\855b23171b743d376b22abc11a8bbeb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7ff15adc4ab389485787720e9e6193bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7ff15adc4ab389485787720e9e6193bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b787516b63ba220ce85a0e1aef8d807f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b787516b63ba220ce85a0e1aef8d807f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ad59f3aa67bb29f63a77b5e0a244e834\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ad59f3aa67bb29f63a77b5e0a244e834\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fbd919a8d4587c80b67881825fb3b181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fbd919a8d4587c80b67881825fb3b181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d3fc1f9a55b351abf39a4ac2551048e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d3fc1f9a55b351abf39a4ac2551048e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cee6570588445f912cde7c432b8ec30c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cee6570588445f912cde7c432b8ec30c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\768dbab55db43a3be5b8d5f88ce573bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\768dbab55db43a3be5b8d5f88ce573bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31444360b65cccb977bddb2d2d4d6f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31444360b65cccb977bddb2d2d4d6f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\96ee1cd12f92b95f5ec30036607cfdbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\96ee1cd12f92b95f5ec30036607cfdbd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8a3708d073faf82b057a3ed2ed8d90ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8a3708d073faf82b057a3ed2ed8d90ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\01cd6c556c758f2abb224b0c96232c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\01cd6c556c758f2abb224b0c96232c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\05055d8b14a3c64190d07f72ada24521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\05055d8b14a3c64190d07f72ada24521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a9e26a00f2838713a06cb63439030ff3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a9e26a00f2838713a06cb63439030ff3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9964776757d22d56987a24844b9f7c2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9964776757d22d56987a24844b9f7c2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\641d08deeabe734c292926b853c64142\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\641d08deeabe734c292926b853c64142\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\72ecc6fe3d39897391078ea49fef1909\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\72ecc6fe3d39897391078ea49fef1909\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9604b80f36a09cb2e7630c674c17ec85\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9604b80f36a09cb2e7630c674c17ec85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f3d22eeceb2648e5c02b9cdcf170e8f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f3d22eeceb2648e5c02b9cdcf170e8f9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:17:5-43
+INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:17:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3a61b45453691653a9ce63f1c62cd42\AndroidManifest.xml:23:9-51
+	android:maxSdkVersion
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:17:15-41
+	android:targetSdkVersion
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:17:5-43
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:17:5-43
+		INJECTED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:20:5-54:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6f759ce50a2dbf8314f3537d473ce0bd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6f759ce50a2dbf8314f3537d473ce0bd\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dd5d2cebe2a6b0a53fe618d951445033\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dd5d2cebe2a6b0a53fe618d951445033\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\20a379bb833efcd823ad6e30dfe3fbea\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\20a379bb833efcd823ad6e30dfe3fbea\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a74d8401918a51c954fada49e0020959\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a74d8401918a51c954fada49e0020959\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3a61b45453691653a9ce63f1c62cd42\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3a61b45453691653a9ce63f1c62cd42\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cee6570588445f912cde7c432b8ec30c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cee6570588445f912cde7c432b8ec30c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\768dbab55db43a3be5b8d5f88ce573bf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\768dbab55db43a3be5b8d5f88ce573bf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31444360b65cccb977bddb2d2d4d6f59\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31444360b65cccb977bddb2d2d4d6f59\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\768dbab55db43a3be5b8d5f88ce573bf\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:26:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:27:9-29:21
+	android:value
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:28:13-68
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:27:20-65
+activity#com.machatitans.greenbot.MainActivity
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:30:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.machatitans.greenbot.deviceList
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:38:9-43:15
+	android:screenOrientation
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:40:13-42
+	android:configChanges
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:41:13-48
+	android:theme
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:38:19-45
+activity#com.machatitans.greenbot.PaintActivity
+ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:44:9-53:20
+	android:screenOrientation
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:45:13-48
+	android:name
+		ADDED from C:\Users\chebi\Desktop\GreenBot3\app\src\main\AndroidManifest.xml:44:19-48
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\7a6dc52eb7099e65565ed2847138adca\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dd5d2cebe2a6b0a53fe618d951445033\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dd5d2cebe2a6b0a53fe618d951445033\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dd5d2cebe2a6b0a53fe618d951445033\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dd5d2cebe2a6b0a53fe618d951445033\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a74d8401918a51c954fada49e0020959\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a74d8401918a51c954fada49e0020959\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a74d8401918a51c954fada49e0020959\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3a61b45453691653a9ce63f1c62cd42\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cee6570588445f912cde7c432b8ec30c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cee6570588445f912cde7c432b8ec30c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3a61b45453691653a9ce63f1c62cd42\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\chebi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3a61b45453691653a9ce63f1c62cd42\AndroidManifest.xml:27:13-51
