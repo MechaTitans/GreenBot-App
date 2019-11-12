@@ -1,0 +1,12 @@
+This is the official app that controls our project "GreenBot".
+
+Our project consists of a fully autonomous robot, that given a drawn path, it can follow a realtime scaled version of that path on a piece
+of land and collects fruits on his way that are about to get spoilt. Using an Image Processing algorithm and a fully Electric Robotic
+arm with a load sensor it detects the non-damaged fruits by its color and the amount of force that is applied to it. The app connects to
+the robot via Bluetooth then the path is drawn on a paintView and sent to the robot to start his cycle.
+The robot is programmed to work with multiple types of fruits that the user selects in the app. And there is also a bunch of other
+optional settings the user can choose, he can create a canvas with the ratio of the piece of land for better precision or add a background
+image of the piece of land to the paintView if he's connected to an internet service, then the image is saved in internal storage for
+later use even when offline.
+
+The project currently is functional but it's still under development and improvements.
