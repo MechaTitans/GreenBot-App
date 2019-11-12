@@ -1,0 +1,4 @@
+#Mon Nov 11 21:28:04 WAT 2019
+base.0=C\:\\Users\\chebi\\Desktop\\GreenBot3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
